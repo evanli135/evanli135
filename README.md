@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello There!
+
+My name is `Evan Li`, a 3rd year `@Northeastern` studying systems engineering (B.S. in Comp Sci).
+
 
 <!--
 **evanli135/evanli135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
