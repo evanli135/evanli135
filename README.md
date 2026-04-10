@@ -1,6 +1,12 @@
 ## Hello There!
 
-My name is `Evan Li`, a 3rd year `@Northeastern` studying systems engineering (B.S. in Comp Sci).
+My name is **Evan Li**, a 3rd year `@Northeastern` (Boston, USA).
+Prior Distributed Systems Security researcher @Northeastern.
+Current SWE for finance platforms @Vestmark.
+Future R&D engineer for test systems @Keysight
+
+I love designing and building systems.
+Proficient with scripting, full stack, infra, and AI integrations.
 
 
 <!--
