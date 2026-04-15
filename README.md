@@ -1,3 +1,5 @@
+![NDSS](https://img.shields.io/badge/NDSS_2026-First_Author_·_14_citations-blue?style=flat&logo=academia)
+
 ```
 ╔══════════════════════ Hello There! ══════════════════════╗ 👋 Evan Li
 ║ 3rd-year CS student @ Northeastern University, Boston.   ║ ┣━━ 🔐 Security Researcher
@@ -37,8 +39,7 @@
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=evanli135&theme=minimal&hide_border=true)
 </td>
     <td>
-
-![NDSS](https://img.shields.io/badge/NDSS_2026-First_Author_·_14_citations-blue?style=flat&logo=academia)
+![Streak](https://streak-stats.demolab.com?user=evanli135&theme=default&hide_border=true)
 </td>
   </tr>
 </table>
