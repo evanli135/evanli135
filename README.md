@@ -16,5 +16,5 @@
 ║ Side projects: RevRoyale (2D strategy, C++) and          ║ ┣━━ 🎮 Projects
 ║ Andal (embedded append-only event store in C).           ║ ┃   ┣━━ ⭐ RevRoyale · C++ Strategy Game
 ╚══════════════════════════════════════════════════════════╝ ┃   ┗━━ ⭐ Andal · Event Store Python-to-C Libary
-                                                             ┗━━ 🌍 evanli.org
+                                                             ┗━━ 🌍 Check my projects out: evanli.org
 ```
