@@ -1,30 +1,16 @@
-## Hello There!
-
-My name is **Evan Li**, a 3rd year `@Northeastern` (Boston, USA).
-
-
-Prior Distributed Agentic Systems Security researcher (published first author) `@Northeastern`.
-
-Current SWE for finance platforms `@Vestmark`.
-
-Future R&D engineer for test systems `@Keysight`
-
-I love designing and building systems.
-Proficient with scripting, full stack, infra, and AI integrations.
-
-**CHECK OUT MY PORTFOLIO:** _[evanli.org](https://evanli.org)_
-
-<!--
-**evanli135/evanli135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+╔══════════════════════ Hello There! ══════════════════════╗ 👋 Evan Li
+║ 3rd-year CS student @ Northeastern University, Boston.   ║ ┣━━ 🔐 Security Researcher
+║ Systems, security, and AI are my thing.                  ║ ┃   ┗━━ ⭐ NDSS 2026 · 1st Author · 14 citations
+║                                                          ║ ┣━━ ⚙️  Systems Builder
+║ My first-authored research on LLM multi-agent security   ║ ┃   ┣━━ ⭐ C / C++ / Rust
+║ was published at NDSS 2026, with 14 citations.           ║ ┃   ┗━━ ⭐ Distributed Systems
+║                                                          ║ ┣━━ 🤖 Agentic AI Engineer
+║ Currently building AI financial advisor agents at        ║ ┃   ┗━━ ⭐ AWS Bedrock · Rails · Python
+║ Vestmark. Joining Keysight R&D this summer to work on    ║ ┣━━ 🌐 Full-Stack Dev
+║ network security test infrastructure.                    ║ ┃   ┗━━ ⭐ React · TypeScript · PostgreSQL
+║                                                          ║ ┗━━ 🌍 evanli.org
+║ I love designing and building systems — from the         ║
+║ metal up.                                                ║
+╚══════════════════════════════════════════════════════════╝
+```
