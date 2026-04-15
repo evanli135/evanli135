@@ -3,11 +3,11 @@
 My name is **Evan Li**, a 3rd year `@Northeastern` (Boston, USA).
 
 
-Prior Distributed Systems Security researcher @Northeastern.
+Prior Distributed Agentic Systems Security researcher (published first author) `@Northeastern`.
 
-Current SWE for finance platforms @Vestmark.
+Current SWE for finance platforms `@Vestmark`.
 
-Future R&D engineer for test systems @Keysight
+Future R&D engineer for test systems `@Keysight`
 
 I love designing and building systems.
 Proficient with scripting, full stack, infra, and AI integrations.
