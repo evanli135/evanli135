@@ -34,14 +34,5 @@
 </td>
 
   </tr>
-  <tr>
-    <td>
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=evanli135&theme=minimal&hide_border=true)
-</td>
-
-    <td>
-![Trophies](https://github-profile-trophy.vercel.app/?username=evanli135&theme=flat&no-bg=true&no-frame=true)
-</td>
-  </tr>
 </table>
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=evanli135&theme=minimal&hide_border=true)
