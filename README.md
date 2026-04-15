@@ -35,4 +35,4 @@
 
   </tr>
 </table>
-<div>![Graph](https://github-readme-activity-graph.vercel.app/graph?username=evanli135&theme=minimal&hide_border=true) </div>
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=evanli135&theme=minimal&hide_border=true)
