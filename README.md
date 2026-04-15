@@ -15,8 +15,12 @@
 ║                                                          ║ ┃   ┗━━ ⭐ AWS · Docker · CI/CD
 ║ Side projects: RevRoyale (2D strategy, C++) and          ║ ┣━━ 🎮 Projects
 ║ Andal (embedded append-only event store in C).           ║ ┃   ┣━━ ⭐ RevRoyale · C++ Strategy Game
-╚══════════════════════════════════════════════════════════╝ ┃   ┗━━ ⭐ Andal · Event Store Python-to-C Libary
+╚══════════════════════════════════════════════════════════╝ ┃   ┗━━ ⭐ Andal · Event Store Python-to-C Library
                                                              ┗━━ 🌍 Check my projects out: evanli.org
-
-
 ```
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evanli135&layout=compact&theme=dark&hide_border=true&langs_count=6)
+![Evan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=evanli135&show_icons=true&theme=dark&hide_border=true&hide=issues&rank_icon=github)
+
+[![Andal](https://github-readme-stats.vercel.app/api/pin/?username=evanli135&repo=Andal&theme=dark&hide_border=true)](https://github.com/evanli135/Andal)
+[![RevRoyale](https://github-readme-stats.vercel.app/api/pin/?username=evanli135&repo=RevRoyale&theme=dark&hide_border=true)](https://github.com/evanli135/RevRoyale)
