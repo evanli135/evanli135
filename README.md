@@ -34,6 +34,7 @@
 </td>
 
   </tr>
+  <tr>
   ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=evanli135&theme=minimal&hide_border=true)
 
   </tr>
