@@ -12,7 +12,7 @@ Future R&D engineer for test systems @Keysight
 I love designing and building systems.
 Proficient with scripting, full stack, infra, and AI integrations.
 
-**CHECK OUT MY PORTFOLIO:**_[evanli.org](url)_
+**CHECK OUT MY PORTFOLIO:** _[evanli.org](url)_
 
 <!--
 **evanli135/evanli135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
