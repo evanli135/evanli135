@@ -34,13 +34,11 @@
   <tr>
     <td>
 
-[![Andal](https://github-readme-stats.vercel.app/api/pin/?username=evanli135&repo=Andal&theme=default&hide_border=true)](https://github.com/evanli135/Andal)
-
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=evanli135&theme=minimal&hide_border=true)
 </td>
     <td>
 
-[![CoatsOfArms](https://github-readme-stats.vercel.app/api/pin/?username=evanli135&repo=CoatsOfArms&theme=default&hide_border=true)](https://github.com/evanli135/CoatsOfArms)
-
+![NDSS](https://img.shields.io/badge/NDSS_2026-First_Author_·_14_citations-blue?style=flat&logo=academia)
 </td>
   </tr>
 </table>
