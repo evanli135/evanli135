@@ -1,4 +1,4 @@
-![NDSS](https://img.shields.io/badge/NDSS_2026-First_Author_·_14_citations-blue?style=flat&logo=academia)
+![NDSS](https://img.shields.io/badge/NDSS_2026-First_Author_%C2%B7_14_citations-blue?style=flat&logo=academia)
 
 ```
 ╔══════════════════════ Hello There! ══════════════════════╗ 👋 Evan Li
@@ -20,6 +20,7 @@
 ╚══════════════════════════════════════════════════════════╝ ┃   ┗━━ ⭐ Andal · Event Store Python-to-C Library
                                                              ┗━━ 🌍 Check my projects out: evanli.org
 ```
+
 <table>
   <tr>
     <td>
@@ -32,10 +33,12 @@
 ![Evan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=evanli135&show_icons=true&theme=default&hide_border=true&hide=issues&rank_icon=github)
 
 </td>
-
   </tr>
   <tr>
-  ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=evanli135&theme=minimal&hide_border=true)
+    <td colspan="2">
 
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=evanli135&theme=minimal&hide_border=true)
+
+</td>
   </tr>
 </table>
