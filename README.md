@@ -17,4 +17,7 @@
 ║ Andal (embedded append-only event store in C).           ║ ┃   ┣━━ ⭐ RevRoyale · C++ Strategy Game
 ╚══════════════════════════════════════════════════════════╝ ┃   ┗━━ ⭐ Andal · Event Store Python-to-C Libary
                                                              ┗━━ 🌍 Check my projects out: evanli.org
+
+![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanli135&show_icons=true&theme=dark)
+
 ```
