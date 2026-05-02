@@ -25,12 +25,12 @@
   <tr>
     <td>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evanli135&layout=compact&theme=dark&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evanli135&layout=compact&theme=default&hide_border=true&langs_count=6)
 
 </td>
     <td>
 
-![Evan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=evanli135&show_icons=true&theme=dark&hide_border=true&hide=issues&rank_icon=github)
+![Evan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=evanli135&show_icons=true&theme=default&hide_border=true&hide=issues&rank_icon=github)
 
 </td>
   </tr>
