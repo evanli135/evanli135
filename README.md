@@ -13,7 +13,7 @@
 ║ Vestmark. Joining Keysight R&D this summer to work on    ║ ┃   ┣━━ ⭐ Langchain · Mastra
 ║ network security test infrastructure.                    ║ ┃   ┗━━ ⭐ AWS Bedrock · Python
 ║                                                          ║ ┣━━ 🌐 Full-Stack Dev
-║ I love designing and building systems — from the         ║ ┃   ┗━━ ⭐ React · Rails · PostgreSQL
+║ I love designing and building systems — from the         ║ ┃   ┗━━ ⭐ React · Rails/Django/Express/Spring · PostgreSQL/MongoDB
 ║ metal up.                                                ║ ┣━━ 🛠️  DevOps
 ║                                                          ║ ┃   ┗━━ ⭐ AWS · Docker · CI/CD
 ║ Side projects: RevRoyale (2D strategy, C++) and          ║ ┣━━ 🎮 Projects
