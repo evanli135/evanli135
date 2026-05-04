@@ -1,6 +1,6 @@
 ![NDSS](https://img.shields.io/badge/NDSS_2026-First_Author_%C2%B7_14_citations-red?style=flat&logo=gnuprivacyguard&logoColor=white)
-![Vestmark](https://img.shields.io/badge/Vestmark-Software_Engineer-blue?style=flat&logo=typescript)
-![Keysight](https://img.shields.io/badge/Keysight-R%26D_Engineer-1B3A6B?style=flat&logo=ieee&logoColor=00A8E0)
+![Vestmark](https://img.shields.io/badge/Vestmark-Software_Engineer-blue?style=flat)
+![Keysight](https://img.shields.io/badge/Keysight-R%26D_Engineer-1B3A6B?style=flat)
 ```
 ╔══════════════════════ Hello There! ══════════════════════╗ 👋 Evan Li
 ║ 3rd-year CS student @ Northeastern University, Boston.   ║ ┣━━ 🔐 Security Researcher
